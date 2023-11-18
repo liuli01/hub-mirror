@@ -11,7 +11,7 @@ labels: ["hub-mirror"]
         "实例1：ghcr.io/jenkins-x/jx-boot:3.10.3",
         "实例2：ghcr.io/jenkins-x/jx-boot:3.10.3$jx-boot",
         "要求：hub-mirror 标签是必选的，标题随意，每次最多支持转换 11 个镜像",
-        "建议：修改这个 json",
+        "建议：修改这个 json，删除上面内容，在下面引号内放入镜像名称",
         "......"
     ]
 }
